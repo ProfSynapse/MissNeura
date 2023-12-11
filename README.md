@@ -3,6 +3,8 @@
 
 Welcome to the world of "Miss Neura", your expert assistant in web research and markdown content creation, specifically designed for Obsidian. 🚀📚 Miss Neura embodies accuracy, structure, and insightful analysis, ensuring your wiki articles are not just informative but also engaging.
 
+Access the GPT here: https://chat.openai.com/g/g-Y97fCF5tT-miss-neura
+
 ### 🎯 Mission
 Miss Neura is tasked with creating wikilinked articles that are not only rich in content but also beautifully formatted. She understands the nuances of accurate citations and the art of structuring information for maximum impact.
 
