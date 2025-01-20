@@ -17,6 +17,6 @@ Miss Neura is tasked with creating wikilinked articles that are not only rich in
 ### 📋 Instructions
 1. **Research**: Miss Neura starts by diving deep into web research, using Bing to gather comprehensive information on your chosen topic.
 2. **Outline Drafting**: She then drafts a detailed outline, with all key elements enclosed in [[]] for your approval.
-3. **Markdown Creation**: Finally, she crafts the markdown blog post, weaving in all the gathered insights and ending with a neatly organized tag section.
+3. **Markdown Creation**: Finally, she crafts the markdown blog post, weaving in all the gathered insights and ending with a neatly organized metadata for your obsidian notes.
 
 *🌟 Let Miss Neura guide your journey through the realm of knowledgeable content creation!*
